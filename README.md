@@ -8,3 +8,5 @@
 *	js/gulpfile.js	
 	
 	gulp示例文件
+*	[ng-lazy-load](https://github.com/yuanxj1024/angular-lazy-load-driective)
+*	
