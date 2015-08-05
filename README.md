@@ -5,13 +5,17 @@
 	
 	弹性布局
 	
+*	CSS/animate [github](https://github.com/daneden/animate.css)
+	
+	各种css3动画效果	
+	
 *	js/gulpfile.js	
 	
 	gulp示例文件
-*	js/svg-drawDoughnutChart [from gitHub](https://github.com/githiro/drawDoughnutChart)
+*	js/svg-drawDoughnutChart [gitHub](https://github.com/githiro/drawDoughnutChart)
 	
 	svg 画圆圈百分比图
-*	js/swipe.js [from github](https://github.com/thebird/Swipe)
+*	js/swipe.js [github](https://github.com/thebird/Swipe)
 	
 	移动端滑动手势	
 *	js/fullPage
